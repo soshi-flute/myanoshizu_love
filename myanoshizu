@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <title>おしゃれな警告音ボタン</title>
+  <title>騒音ボタン</title>
   <style>
     html, body {
       margin: 0; padding: 0; height: 100%; width: 100%;
